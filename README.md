@@ -35,7 +35,7 @@ A combination of these three attributes can be defined to assign a quantitative 
    * K Means.
    * K Means with elbow method.
    * Hierarchical clustering (Agglomerative).
-  
+# Conclusion  
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 * Missing and duplicate values were found in the given dataset.
 
