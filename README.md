@@ -35,3 +35,28 @@ A combination of these three attributes can be defined to assign a quantitative 
    * K Means.
    * K Means with elbow method.
    * Hierarchical clustering (Agglomerative).
+  
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+* Missing and duplicate values were found in the given dataset.
+
+* Most of the purchases are from United Kingdom followed by Germany, France, Ireland and Spain.
+
+* Most of the customers purchased items on Thursday, Wednesday, Tuesday.
+
+* Most of the customers purchased items in the month of November, October, December, and the least number of purchases in April, January, February.
+
+* Most of the customers start their purchase from 10:00 A.M till 2:00 P.M & the 12th hour of the day is the peak for purchasing. After 2:00 P.M the purchasing frequency gradually reduces.
+
+* Top Five purchased products on the basis of their frequency:
+
+   * WHITE HANGING HEART T-LIGHT HOLDER
+   * REGENCY CAKESTAND 3 TIER
+   * JUMBO BAG RED RETROSPOT
+   * ASSORTED COLOUR BIRD ORNAMENT
+   * PARTY BUNTING
+
+
+• K-Means Clustering elbow method with Silhouette gives the highest score of 0.564465 for number of clusters 3.
+
+• Sales has been increased from 2010 to 2011.
+
