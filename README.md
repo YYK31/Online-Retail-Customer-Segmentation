@@ -31,12 +31,13 @@ Monetary Value – How much do they spend?
 A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
-# Model implementation:
+# Model implementation
    * K Means.
    * K Means with elbow method.
    * Hierarchical clustering (Agglomerative).
-# Conclusion  
+ 
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+# Conclusion 
 * Missing and duplicate values were found in the given dataset.
 
 * Most of the purchases are from United Kingdom followed by Germany, France, Ireland and Spain.
